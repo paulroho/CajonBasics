@@ -205,7 +205,7 @@ module.exports = {
       ]
     },
     {
-      "number": 17,
+      "number": 30,
       "title": "Drum-Set-Grooves mit durchlaufender rechter Hand",
       "samples": [
         {
@@ -690,301 +690,218 @@ module.exports = {
       ]
     },
     {
-      "number": 23,
+      "number": 50,
+      "title": "Shuffle",
       "samples": [
         {
-          "number": 45
+          "number": 69,
+          "title": "Vorübung",
         },
         {
-          "number": 46
+          "number": 70,
+          "title": "1."
+        },
+        {
+          "number": 71,
+          "title": "2."
+        },
+      ]
+    },
+    {
+      "number": 51,
+      "samples": [
+        {
+          "number": 72,
+          "title": "3."
+        },
+        {
+          "title": "4."
+        },
+        {
+          "number": 76,
+          "playalong": true,
+        },
+        {
+          "number": 73,
+          "title": "1."
+        },
+        {
+          "number": 74,
+          "title": "2."
+        },
+        {
+          "number": 75,
+          "title": "3."
+        },
+      ]
+    },
+    {
+      "number": 53,
+      "title": "Stilistiken - Styles",
+      "samples": [
+        {
+          "number": 77,
+          "title": "Polka",
+        },
+        {
+          "number": 78,
+          "title": "Walzer",
+        },
+        {
+          "number": 79,
+          "title": "Fast Blues",
+        },
+        {
+          "number": 80,
+          "playalong": true,
+        },
+      ]
+    },
+    {
+      "number": 54,
+      "samples": [
+        {
+          "number": 81,
+          "title": "Blues Shuffle",
+        },
+        {
+          "number": 82,
+          "title": "Pop",
+        },
+      ]
+    },
+    {
+      "number": 55,
+      "samples": [
+        {
+          "number": 83,
+          "title": "Hip Hop",
+        },
+        {
+          "number": 84,
+          "playalong": true,
+        },
+        {
+          "title": "Variation 1",
+        },
+        {
+          "title": "Variation 2",
+        },
+      ]
+    },
+    {
+      "number": 56,
+      "samples": [
+        {
+          "number": 85,
+          "title": "Disco"
+        },
+        {
+          "number": 86,
+          "title": "Variation"
+        },
+        {
+          "number": 87,
+          "title": "Soca"
+        },
+      ]
+    },
+    {
+      "number": 57,
+      "samples": [
+        {
+          "number": 88,
+          "title": "Afro"
+        },
+        {
+          "number": 89,
+          "title": "Baiao"
+        },
+        {
+          "number": 90,
+          "title": "Reggae"
+        },
+      ]
+    },
+    {
+      "number": 58,
+      "title": "Latin",
+      "samples": [
+        {
+          "number": 91,
+          "title": "1."
+        },
+        {
+          "number": 92,
+          "title": "2."
+        },
+        {
+          "number": 93,
+          "title": "3."
+        },
+        {
+          "number": 94,
+          "playalong": true,
+        },
+      ]
+    },
+    {
+      "number": 59,
+      "title": "5/8, 7/8, 9/8 und 10/8",
+      "samples": [
+        {
+          "title": "5/8"
+        },
+        {
+          "title": "7/8"
+        },
+        {
+          "title": "9/8"
+        },
+        {
+          "title": "10/8"
+        },
+      ]
+    },
+    {
+      "number": 60,
+      "title": "Ensemble",
+      "samples": [
+        {
+          "title": "1."
+        },
+        {
+          "title": "2."
         }
       ]
     },
     {
-      "number": 24,
+      "number": 61,
       "samples": [
         {
-          "number": 47
+          "title": "3."
         },
         {
-          "number": 48
-        }
+          "title": "4."
+        },
+        {
+          "title": "5."
+        },
       ]
     },
     {
-      "number": 25,
+      "number": 62,
       "samples": [
         {
-          "number": 49
+          "title": "6."
         },
         {
-          "number": 50
-        }
+          "title": "7."
+        },
+        {
+          "title": "8."
+        },
       ]
     },
-    {
-      "number": 26,
-      "samples": [
-        {
-          "number": 51
-        },
-        {
-          "number": 52
-        }
-      ]
-    },
-    {
-      "number": 27,
-      "samples": [
-        {
-          "number": 53
-        },
-        {
-          "number": 54
-        }
-      ]
-    },
-    {
-      "number": 28,
-      "samples": [
-        {
-          "number": 55
-        },
-        {
-          "number": 56
-        }
-      ]
-    },
-    {
-      "number": 29,
-      "samples": [
-        {
-          "number": 57
-        },
-        {
-          "number": 58
-        }
-      ]
-    },
-    {
-      "number": 30,
-      "samples": [
-        {
-          "number": 59
-        },
-        {
-          "number": 60
-        }
-      ]
-    },
-    {
-      "number": 31,
-      "samples": [
-        {
-          "number": 61
-        },
-        {
-          "number": 62
-        }
-      ]
-    },
-    {
-      "number": 32,
-      "samples": [
-        {
-          "number": 63
-        },
-        {
-          "number": 64
-        }
-      ]
-    },
-    {
-      "number": 33,
-      "samples": [
-        {
-          "number": 65
-        },
-        {
-          "number": 66
-        }
-      ]
-    },
-    {
-      "number": 34,
-      "samples": [
-        {
-          "number": 67
-        },
-        {
-          "number": 68
-        }
-      ]
-    },
-    {
-      "number": 35,
-      "samples": [
-        {
-          "number": 69
-        },
-        {
-          "number": 70
-        }
-      ]
-    },
-    {
-      "number": 36,
-      "samples": [
-        {
-          "number": 71
-        },
-        {
-          "number": 72
-        }
-      ]
-    },
-    {
-      "number": 37,
-      "samples": [
-        {
-          "number": 73
-        },
-        {
-          "number": 74
-        }
-      ]
-    },
-    {
-      "number": 38,
-      "samples": [
-        {
-          "number": 75
-        },
-        {
-          "number": 76
-        }
-      ]
-    },
-    {
-      "number": 39,
-      "samples": [
-        {
-          "number": 77
-        },
-        {
-          "number": 78
-        }
-      ]
-    },
-    {
-      "number": 40,
-      "samples": [
-        {
-          "number": 79
-        },
-        {
-          "number": 80
-        }
-      ]
-    },
-    {
-      "number": 41,
-      "samples": [
-        {
-          "number": 81
-        },
-        {
-          "number": 82
-        }
-      ]
-    },
-    {
-      "number": 42,
-      "samples": [
-        {
-          "number": 83
-        },
-        {
-          "number": 84
-        }
-      ]
-    },
-    {
-      "number": 43,
-      "samples": [
-        {
-          "number": 85
-        },
-        {
-          "number": 86
-        }
-      ]
-    },
-    {
-      "number": 44,
-      "samples": [
-        {
-          "number": 87
-        },
-        {
-          "number": 88
-        }
-      ]
-    },
-    {
-      "number": 45,
-      "samples": [
-        {
-          "number": 89
-        },
-        {
-          "number": 90
-        }
-      ]
-    },
-    {
-      "number": 46,
-      "samples": [
-        {
-          "number": 91
-        },
-        {
-          "number": 92
-        }
-      ]
-    },
-    {
-      "number": 47,
-      "samples": [
-        {
-          "number": 93
-        },
-        {
-          "number": 94
-        }
-      ]
-    },
-    {
-      "number": 48,
-      "samples": [
-        {
-          "number": 95
-        },
-        {
-          "number": 96
-        }
-      ]
-    },
-    {
-      "number": 49,
-      "samples": [
-        {
-          "number": 97
-        },
-        {
-          "number": 98
-        }
-      ]
-    }
   ]
 }

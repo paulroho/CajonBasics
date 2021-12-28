@@ -1,6 +1,9 @@
 <template>
   <div class="sample">
-    <a :href="href">{{ name }}</a>
+    <p>{{ title }}
+      <span v-if="playalong">Playalong: </span>
+      <a v-if="showSample" :href="href">{{ name }}</a>
+    </p>
   </div>
 </template>
 
@@ -11,15 +14,24 @@ function getFileName(number) {
   })}.mp3`;
 }
 
+function getHref(sampleBaseUri, number) {
+  if (number !== undefined) {
+    return sampleBaseUri + getFileName(number);
+  }
+}
+
 export default {
   name: "Sample",
   props: {
     number: Number,
+    title: String,
+    playalong: Boolean,
   },
   data() {
     return {
       name: `Audio ${this.number}`,
-      href: this.sampleBaseUri + getFileName(this.number),
+      showSample: this.number !== undefined,
+      href: getHref(this.sampleBaseUri, this.number),
     };
   },
 };

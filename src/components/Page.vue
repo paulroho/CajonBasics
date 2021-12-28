@@ -1,6 +1,7 @@
 <template>
   <div class="page">
     <p class="numbering">Seite {{ number }}</p>
+    <h2>{{ title }}</h2>
 
     <sample
       v-for="sample in samples"
@@ -18,6 +19,7 @@ export default {
   components: { Sample },
   props: {
     number: Number,
+    title: String,
     samples: Array,
   },
 };
@@ -35,5 +37,8 @@ div.page {
 p.numbering {
   text-align: left;
   margin: 0;
+}
+h2 {
+  text-align: left;
 }
 </style>
