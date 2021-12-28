@@ -6,6 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
+    "generate-data": "node ./src/assets/data/create-testdata.js > ./src/assets/data/cajon-basics.structure.js",
     "deploy": "./deploy.sh"
   },
   "dependencies": {

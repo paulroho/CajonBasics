@@ -11,7 +11,8 @@
           {
             minimumIntegerDigits: 2,
           }
-        )}.mp3`,
+        )}`,
+        extension: 'mp3',
       })),
     })),
   };

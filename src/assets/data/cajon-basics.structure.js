@@ -5,10 +5,12 @@ module.exports = {
       "number": 1,
       "samples": [
         {
-          "name": "CajonBasics01.mp3"
+          "name": "CajonBasics01",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics02.mp3"
+          "name": "CajonBasics02",
+          "extension": "mp3"
         }
       ]
     },
@@ -16,10 +18,12 @@ module.exports = {
       "number": 2,
       "samples": [
         {
-          "name": "CajonBasics03.mp3"
+          "name": "CajonBasics03",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics04.mp3"
+          "name": "CajonBasics04",
+          "extension": "mp3"
         }
       ]
     },
@@ -27,10 +31,12 @@ module.exports = {
       "number": 3,
       "samples": [
         {
-          "name": "CajonBasics05.mp3"
+          "name": "CajonBasics05",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics06.mp3"
+          "name": "CajonBasics06",
+          "extension": "mp3"
         }
       ]
     },
@@ -38,10 +44,12 @@ module.exports = {
       "number": 4,
       "samples": [
         {
-          "name": "CajonBasics07.mp3"
+          "name": "CajonBasics07",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics08.mp3"
+          "name": "CajonBasics08",
+          "extension": "mp3"
         }
       ]
     },
@@ -49,10 +57,12 @@ module.exports = {
       "number": 5,
       "samples": [
         {
-          "name": "CajonBasics09.mp3"
+          "name": "CajonBasics09",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics10.mp3"
+          "name": "CajonBasics10",
+          "extension": "mp3"
         }
       ]
     },
@@ -60,10 +70,12 @@ module.exports = {
       "number": 6,
       "samples": [
         {
-          "name": "CajonBasics11.mp3"
+          "name": "CajonBasics11",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics12.mp3"
+          "name": "CajonBasics12",
+          "extension": "mp3"
         }
       ]
     },
@@ -71,10 +83,12 @@ module.exports = {
       "number": 7,
       "samples": [
         {
-          "name": "CajonBasics13.mp3"
+          "name": "CajonBasics13",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics14.mp3"
+          "name": "CajonBasics14",
+          "extension": "mp3"
         }
       ]
     },
@@ -82,10 +96,12 @@ module.exports = {
       "number": 8,
       "samples": [
         {
-          "name": "CajonBasics15.mp3"
+          "name": "CajonBasics15",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics16.mp3"
+          "name": "CajonBasics16",
+          "extension": "mp3"
         }
       ]
     },
@@ -93,10 +109,12 @@ module.exports = {
       "number": 9,
       "samples": [
         {
-          "name": "CajonBasics17.mp3"
+          "name": "CajonBasics17",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics18.mp3"
+          "name": "CajonBasics18",
+          "extension": "mp3"
         }
       ]
     },
@@ -104,10 +122,12 @@ module.exports = {
       "number": 10,
       "samples": [
         {
-          "name": "CajonBasics19.mp3"
+          "name": "CajonBasics19",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics20.mp3"
+          "name": "CajonBasics20",
+          "extension": "mp3"
         }
       ]
     },
@@ -115,10 +135,12 @@ module.exports = {
       "number": 11,
       "samples": [
         {
-          "name": "CajonBasics21.mp3"
+          "name": "CajonBasics21",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics22.mp3"
+          "name": "CajonBasics22",
+          "extension": "mp3"
         }
       ]
     },
@@ -126,10 +148,12 @@ module.exports = {
       "number": 12,
       "samples": [
         {
-          "name": "CajonBasics23.mp3"
+          "name": "CajonBasics23",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics24.mp3"
+          "name": "CajonBasics24",
+          "extension": "mp3"
         }
       ]
     },
@@ -137,10 +161,12 @@ module.exports = {
       "number": 13,
       "samples": [
         {
-          "name": "CajonBasics25.mp3"
+          "name": "CajonBasics25",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics26.mp3"
+          "name": "CajonBasics26",
+          "extension": "mp3"
         }
       ]
     },
@@ -148,10 +174,12 @@ module.exports = {
       "number": 14,
       "samples": [
         {
-          "name": "CajonBasics27.mp3"
+          "name": "CajonBasics27",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics28.mp3"
+          "name": "CajonBasics28",
+          "extension": "mp3"
         }
       ]
     },
@@ -159,10 +187,12 @@ module.exports = {
       "number": 15,
       "samples": [
         {
-          "name": "CajonBasics29.mp3"
+          "name": "CajonBasics29",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics30.mp3"
+          "name": "CajonBasics30",
+          "extension": "mp3"
         }
       ]
     },
@@ -170,10 +200,12 @@ module.exports = {
       "number": 16,
       "samples": [
         {
-          "name": "CajonBasics31.mp3"
+          "name": "CajonBasics31",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics32.mp3"
+          "name": "CajonBasics32",
+          "extension": "mp3"
         }
       ]
     },
@@ -181,10 +213,12 @@ module.exports = {
       "number": 17,
       "samples": [
         {
-          "name": "CajonBasics33.mp3"
+          "name": "CajonBasics33",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics34.mp3"
+          "name": "CajonBasics34",
+          "extension": "mp3"
         }
       ]
     },
@@ -192,10 +226,12 @@ module.exports = {
       "number": 18,
       "samples": [
         {
-          "name": "CajonBasics35.mp3"
+          "name": "CajonBasics35",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics36.mp3"
+          "name": "CajonBasics36",
+          "extension": "mp3"
         }
       ]
     },
@@ -203,10 +239,12 @@ module.exports = {
       "number": 19,
       "samples": [
         {
-          "name": "CajonBasics37.mp3"
+          "name": "CajonBasics37",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics38.mp3"
+          "name": "CajonBasics38",
+          "extension": "mp3"
         }
       ]
     },
@@ -214,10 +252,12 @@ module.exports = {
       "number": 20,
       "samples": [
         {
-          "name": "CajonBasics39.mp3"
+          "name": "CajonBasics39",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics40.mp3"
+          "name": "CajonBasics40",
+          "extension": "mp3"
         }
       ]
     },
@@ -225,10 +265,12 @@ module.exports = {
       "number": 21,
       "samples": [
         {
-          "name": "CajonBasics41.mp3"
+          "name": "CajonBasics41",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics42.mp3"
+          "name": "CajonBasics42",
+          "extension": "mp3"
         }
       ]
     },
@@ -236,10 +278,12 @@ module.exports = {
       "number": 22,
       "samples": [
         {
-          "name": "CajonBasics43.mp3"
+          "name": "CajonBasics43",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics44.mp3"
+          "name": "CajonBasics44",
+          "extension": "mp3"
         }
       ]
     },
@@ -247,10 +291,12 @@ module.exports = {
       "number": 23,
       "samples": [
         {
-          "name": "CajonBasics45.mp3"
+          "name": "CajonBasics45",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics46.mp3"
+          "name": "CajonBasics46",
+          "extension": "mp3"
         }
       ]
     },
@@ -258,10 +304,12 @@ module.exports = {
       "number": 24,
       "samples": [
         {
-          "name": "CajonBasics47.mp3"
+          "name": "CajonBasics47",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics48.mp3"
+          "name": "CajonBasics48",
+          "extension": "mp3"
         }
       ]
     },
@@ -269,10 +317,12 @@ module.exports = {
       "number": 25,
       "samples": [
         {
-          "name": "CajonBasics49.mp3"
+          "name": "CajonBasics49",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics50.mp3"
+          "name": "CajonBasics50",
+          "extension": "mp3"
         }
       ]
     },
@@ -280,10 +330,12 @@ module.exports = {
       "number": 26,
       "samples": [
         {
-          "name": "CajonBasics51.mp3"
+          "name": "CajonBasics51",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics52.mp3"
+          "name": "CajonBasics52",
+          "extension": "mp3"
         }
       ]
     },
@@ -291,10 +343,12 @@ module.exports = {
       "number": 27,
       "samples": [
         {
-          "name": "CajonBasics53.mp3"
+          "name": "CajonBasics53",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics54.mp3"
+          "name": "CajonBasics54",
+          "extension": "mp3"
         }
       ]
     },
@@ -302,10 +356,12 @@ module.exports = {
       "number": 28,
       "samples": [
         {
-          "name": "CajonBasics55.mp3"
+          "name": "CajonBasics55",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics56.mp3"
+          "name": "CajonBasics56",
+          "extension": "mp3"
         }
       ]
     },
@@ -313,10 +369,12 @@ module.exports = {
       "number": 29,
       "samples": [
         {
-          "name": "CajonBasics57.mp3"
+          "name": "CajonBasics57",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics58.mp3"
+          "name": "CajonBasics58",
+          "extension": "mp3"
         }
       ]
     },
@@ -324,10 +382,12 @@ module.exports = {
       "number": 30,
       "samples": [
         {
-          "name": "CajonBasics59.mp3"
+          "name": "CajonBasics59",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics60.mp3"
+          "name": "CajonBasics60",
+          "extension": "mp3"
         }
       ]
     },
@@ -335,10 +395,12 @@ module.exports = {
       "number": 31,
       "samples": [
         {
-          "name": "CajonBasics61.mp3"
+          "name": "CajonBasics61",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics62.mp3"
+          "name": "CajonBasics62",
+          "extension": "mp3"
         }
       ]
     },
@@ -346,10 +408,12 @@ module.exports = {
       "number": 32,
       "samples": [
         {
-          "name": "CajonBasics63.mp3"
+          "name": "CajonBasics63",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics64.mp3"
+          "name": "CajonBasics64",
+          "extension": "mp3"
         }
       ]
     },
@@ -357,10 +421,12 @@ module.exports = {
       "number": 33,
       "samples": [
         {
-          "name": "CajonBasics65.mp3"
+          "name": "CajonBasics65",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics66.mp3"
+          "name": "CajonBasics66",
+          "extension": "mp3"
         }
       ]
     },
@@ -368,10 +434,12 @@ module.exports = {
       "number": 34,
       "samples": [
         {
-          "name": "CajonBasics67.mp3"
+          "name": "CajonBasics67",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics68.mp3"
+          "name": "CajonBasics68",
+          "extension": "mp3"
         }
       ]
     },
@@ -379,10 +447,12 @@ module.exports = {
       "number": 35,
       "samples": [
         {
-          "name": "CajonBasics69.mp3"
+          "name": "CajonBasics69",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics70.mp3"
+          "name": "CajonBasics70",
+          "extension": "mp3"
         }
       ]
     },
@@ -390,10 +460,12 @@ module.exports = {
       "number": 36,
       "samples": [
         {
-          "name": "CajonBasics71.mp3"
+          "name": "CajonBasics71",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics72.mp3"
+          "name": "CajonBasics72",
+          "extension": "mp3"
         }
       ]
     },
@@ -401,10 +473,12 @@ module.exports = {
       "number": 37,
       "samples": [
         {
-          "name": "CajonBasics73.mp3"
+          "name": "CajonBasics73",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics74.mp3"
+          "name": "CajonBasics74",
+          "extension": "mp3"
         }
       ]
     },
@@ -412,10 +486,12 @@ module.exports = {
       "number": 38,
       "samples": [
         {
-          "name": "CajonBasics75.mp3"
+          "name": "CajonBasics75",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics76.mp3"
+          "name": "CajonBasics76",
+          "extension": "mp3"
         }
       ]
     },
@@ -423,10 +499,12 @@ module.exports = {
       "number": 39,
       "samples": [
         {
-          "name": "CajonBasics77.mp3"
+          "name": "CajonBasics77",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics78.mp3"
+          "name": "CajonBasics78",
+          "extension": "mp3"
         }
       ]
     },
@@ -434,10 +512,12 @@ module.exports = {
       "number": 40,
       "samples": [
         {
-          "name": "CajonBasics79.mp3"
+          "name": "CajonBasics79",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics80.mp3"
+          "name": "CajonBasics80",
+          "extension": "mp3"
         }
       ]
     },
@@ -445,10 +525,12 @@ module.exports = {
       "number": 41,
       "samples": [
         {
-          "name": "CajonBasics81.mp3"
+          "name": "CajonBasics81",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics82.mp3"
+          "name": "CajonBasics82",
+          "extension": "mp3"
         }
       ]
     },
@@ -456,10 +538,12 @@ module.exports = {
       "number": 42,
       "samples": [
         {
-          "name": "CajonBasics83.mp3"
+          "name": "CajonBasics83",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics84.mp3"
+          "name": "CajonBasics84",
+          "extension": "mp3"
         }
       ]
     },
@@ -467,10 +551,12 @@ module.exports = {
       "number": 43,
       "samples": [
         {
-          "name": "CajonBasics85.mp3"
+          "name": "CajonBasics85",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics86.mp3"
+          "name": "CajonBasics86",
+          "extension": "mp3"
         }
       ]
     },
@@ -478,10 +564,12 @@ module.exports = {
       "number": 44,
       "samples": [
         {
-          "name": "CajonBasics87.mp3"
+          "name": "CajonBasics87",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics88.mp3"
+          "name": "CajonBasics88",
+          "extension": "mp3"
         }
       ]
     },
@@ -489,10 +577,12 @@ module.exports = {
       "number": 45,
       "samples": [
         {
-          "name": "CajonBasics89.mp3"
+          "name": "CajonBasics89",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics90.mp3"
+          "name": "CajonBasics90",
+          "extension": "mp3"
         }
       ]
     },
@@ -500,10 +590,12 @@ module.exports = {
       "number": 46,
       "samples": [
         {
-          "name": "CajonBasics91.mp3"
+          "name": "CajonBasics91",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics92.mp3"
+          "name": "CajonBasics92",
+          "extension": "mp3"
         }
       ]
     },
@@ -511,10 +603,12 @@ module.exports = {
       "number": 47,
       "samples": [
         {
-          "name": "CajonBasics93.mp3"
+          "name": "CajonBasics93",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics94.mp3"
+          "name": "CajonBasics94",
+          "extension": "mp3"
         }
       ]
     },
@@ -522,10 +616,12 @@ module.exports = {
       "number": 48,
       "samples": [
         {
-          "name": "CajonBasics95.mp3"
+          "name": "CajonBasics95",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics96.mp3"
+          "name": "CajonBasics96",
+          "extension": "mp3"
         }
       ]
     },
@@ -533,10 +629,12 @@ module.exports = {
       "number": 49,
       "samples": [
         {
-          "name": "CajonBasics97.mp3"
+          "name": "CajonBasics97",
+          "extension": "mp3"
         },
         {
-          "name": "CajonBasics98.mp3"
+          "name": "CajonBasics98",
+          "extension": "mp3"
         }
       ]
     }

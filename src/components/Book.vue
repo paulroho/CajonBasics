@@ -1,12 +1,7 @@
 <template>
   <div class="book">
     <h1>{{ data.title }}</h1>
-    <p>{{ data.pages.length }} pages</p>
-    <page
-      v-for="page in data.pages"
-      :key="page.number"
-      v-bind="page"
-    ></page>
+    <page v-for="page in data.pages" :key="page.number" v-bind="page"></page>
   </div>
 </template>
 
@@ -20,3 +15,9 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+div.book {
+  background-color: lightyellow;
+}
+</style>
