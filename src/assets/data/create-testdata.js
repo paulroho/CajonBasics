@@ -6,13 +6,7 @@
     pages: [...Array(pages).keys()].map((p) => ({
       number: p + 1,
       samples: [...Array(samplesPerPage).keys()].map((s) => ({
-        name: `CajonBasics${(p * samplesPerPage + s + 1).toLocaleString(
-          "de-AT",
-          {
-            minimumIntegerDigits: 2,
-          }
-        )}`,
-        extension: 'mp3',
+        number: p * samplesPerPage + s + 1,
       })),
     })),
   };

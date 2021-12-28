@@ -5,15 +5,21 @@
 </template>
 
 <script>
+function getFileName(number) {
+  return `CajonBasics${number.toLocaleString("de-AT", {
+    minimumIntegerDigits: 2,
+  })}.mp3`;
+}
+
 export default {
   name: "Sample",
   props: {
-    name: String,
-    extension: String,
+    number: Number,
   },
   data() {
     return {
-      href: this.sampleBaseUri + this.name + "." + this.extension,
+      name: `Audio ${this.number}`,
+      href: this.sampleBaseUri + getFileName(this.number),
     };
   },
 };
