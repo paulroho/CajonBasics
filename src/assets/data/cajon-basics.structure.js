@@ -1,5 +1,8 @@
 module.exports = {
   "title": "CajonBasics",
+  "author": "Matthias Philipzen",
+  "publisher": "Voggenreiter",
+  "ISBN": "978-3-8024-0764-2",
   "pages": [
     {
       "number": 12,

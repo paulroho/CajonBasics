@@ -28,7 +28,7 @@ export default {
 <style scoped>
 div.page {
   border: 1px solid gray;
-  border-radius: 0.25rem;
+  border-radius: 0.5rem;
   margin: 1rem auto 1rem auto;
   background-color: white;
   padding: 1rem;
