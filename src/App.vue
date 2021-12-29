@@ -1,5 +1,5 @@
 <template>
-  <Book :data="CajonBasicsStructure"></Book>
+  <book :data="CajonBasicsStructure"></book>
 </template>
 
 <script>

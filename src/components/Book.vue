@@ -1,15 +1,17 @@
 <template>
   <div class="book">
-    <h1>{{ data.title }}</h1>
+    <book-title :text="data.title"></book-title>
     <page v-for="page in data.pages" :key="page.number" v-bind="page"></page>
   </div>
 </template>
 
 <script>
 import Page from "./Page.vue";
+import BookTitle from "./BookTitle.vue";
+
 export default {
   name: "book",
-  components: { Page },
+  components: { BookTitle, Page },
   props: {
     data: Object,
   },
